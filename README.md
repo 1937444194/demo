@@ -6,5 +6,5 @@
 
 # 启动命令
 
-npm run dev
-yarn start
+```npm run dev```
+```yarn start```
